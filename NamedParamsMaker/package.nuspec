@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>Hyperqwe.ReSharper.ParamMaker</id>
+		<version>1.0.4</version>
+		<authors>Ivan Konovalov</authors>
+		<owners>Ivan Konovalov</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Creates a list of named parameters on the method call</description>
+		<tags>named parameters</tags>
+		<dependencies>
+			<dependency id="Wave" version="8.0" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="bin\Release\NamedParamsMaker.dll" target="dotFiles\" />
+	</files>
+</package>
