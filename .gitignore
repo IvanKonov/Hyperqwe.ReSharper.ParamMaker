@@ -2,3 +2,4 @@
 NamedParamsMaker/bin/
 NamedParamsMaker/obj/
 packages
+*.exe
