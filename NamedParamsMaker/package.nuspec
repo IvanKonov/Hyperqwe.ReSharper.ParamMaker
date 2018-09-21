@@ -2,7 +2,7 @@
 <package>
 	<metadata>
 		<id>Hyperqwe.ReSharper.ParamMaker</id>
-		<version>1.0.8</version>
+		<version>1.0.11</version>
 		<authors>Ivan Konovalov</authors>
 		<owners>Ivan Konovalov</owners>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
